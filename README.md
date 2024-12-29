@@ -61,5 +61,4 @@ Based on the results, the ViT model is the recommended choice for real and fake 
 
 
 for more clarification:
-     
      https://medium.com/@priyadharshaninavarathnam/detecting-real-and-fake-faces-with-deep-learning-dfba97a2e686
